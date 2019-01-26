@@ -1,4 +1,4 @@
-package com.happy.im.happyim;
+package com.happy.im;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
